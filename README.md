@@ -1,5 +1,3 @@
-# Hi there 👋
-
 # 💫 About Me:
 👋 3rd-year B.Tech CSE student exploring AI/ML, GenAI, RAG & Cloud Computing.<br>🚀 Building AI-powered projects and learning by doing.<br>🎯 Currently improving my DSA + Cloud + AI/ML skills.<br>🎵 Tabla player | ♟️ Chess enthusiast | 🎧 Hip-Hop & music lover
 
